@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <groupId>Cognizant</groupId>
-  <artifactId>Selenium-Testing</artifactId>
+  <artifactId>Selenium_Testing</artifactId>
   <version>0.0.1-SNAPSHOT</version>
  
   <name>Selenium-Testing</name>
